@@ -1,5 +1,6 @@
 //Smoke Sensor
 
+
 int buzz=10;
 float smoke = A1;
 void setup()
